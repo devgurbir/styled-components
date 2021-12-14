@@ -2,7 +2,7 @@ import styled from "styled-components";
 
 const StyledDrawerItem = styled.div`
   display: flex;
-  /* align-items: center; */
+  align-items: center;
   width: 200px;
   color: black;
   gap: 30px;
